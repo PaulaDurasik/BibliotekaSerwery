@@ -14,8 +14,8 @@
     <url-pattern>/hello</url-pattern>
 </servlet-mapping>
     <servlet-mapping>
-        <servlet-name>Today</servlet-name>
-        <url-pattern>/date</url-pattern>
+        <servlet-name>Calculator</servlet-name>
+        <url-pattern>/calc</url-pattern>
     </servlet-mapping>
 
 </web-app>

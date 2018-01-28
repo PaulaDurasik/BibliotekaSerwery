@@ -1,3 +1,4 @@
 com\sda\biblioteka\servlets\HelloServlet.class
 com\sda\biblioteka\SpringWebApplication.class
+com\sda\biblioteka\servlets\Calculator.class
 com\sda\biblioteka\servlets\Today.class
